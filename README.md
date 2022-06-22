@@ -1,1 +1,1 @@
-# exam-template
+# ICS3U Exam
